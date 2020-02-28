@@ -10,7 +10,7 @@ class AddTest {
 	void test() {
 		Hw ob = new Hw();
 		int act = ob.add(3, 3);
-		assertTrue(6==act);
+		assertTrue(7==act);
 	}
 
 }
